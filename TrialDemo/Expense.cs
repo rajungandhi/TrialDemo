@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrialDemo
 {
-    class Login
+    class Expense
     {
-        public Login()
-        {
-                //login constructor
-
-                //Added chanegs in 15.1 branch
-        }
     }
 }
